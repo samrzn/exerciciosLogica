@@ -19,7 +19,7 @@
   
  
 <div style="display: inline_block"><br>  
-<img align="center" alt="icon Portugol Studio" height="30" width="40" src="http://lite.acad.univali.br/portugol/assets/img/logo.png" />
+<img align="center" alt="icon Portugol Studio" height="30" width="40" src="http://3.bp.blogspot.com/-VwkWSodK4mA/VNAtVOGJyyI/AAAAAAAABgw/TqtSUHm0JCA/s1600/LogVisualg.png" />
 </div>
 
 ##### Para garantia da exibição funcional dos arquivos .ALG, recomenda-se abrir utilizando a IDE VisuAlg.
